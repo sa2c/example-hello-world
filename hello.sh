@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# Let's add some comments...!
+
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo semper elit, non semper tortor.
 # Quisque fringilla metus sem, id faucibus ipsum auctor vel. Aliquam consectetur od
 # io eu erat pulvinar lacinia. Maecenas a lectus vitae felis placerat euismod sed ut felis.
