@@ -42,7 +42,8 @@
 # cursus libero, ac posuere sapien consequat sit amet. Nunc.
 # ut diam posuere, laoreet neque ac, faucibus est.
 
-echo "Hello, World"
+echo "Greetings from git training."
+echom "Hello, World!"
 
 # Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla a nisl diam.
 # Quisque fringilla metus sem, id faucibus ipsum auctor vel. Aliquam consectetur od
