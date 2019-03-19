@@ -39,7 +39,7 @@
 # placerat quis in elit. Maecenas eleifend, urna id porttitor placerat, ante leo pharetra erat,
 # in pretium odio augue vel lorem. Nullam consectetur faucibus nisl ut condimentum.
 
-echo Hello
+echo "Hello, World"
 
 # Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla a nisl diam.
 # Quisque fringilla metus sem, id faucibus ipsum auctor vel. Aliquam consectetur od
