@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Let's add some comments...!
+# Prints a greeting message to the screen
 
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo semper elit, non semper tortor.
 # Quisque fringilla metus sem, id faucibus ipsum auctor vel. Aliquam consectetur od
